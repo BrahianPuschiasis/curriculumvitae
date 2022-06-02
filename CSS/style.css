@@ -3,19 +3,18 @@ h1 {
   font-family: "Times New Roman";
   font-style: normal;
   text-align: center;
- background: #c4c4c4;*/
-  letter-spacing: 10px;
- /* background: url('../img/banner.jpg');*/ 
- background: url('https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
-  margin: 0;
-  padding: 0;
+background: #c4c4c4;
+letter-spacing: 10px;
+background:url('https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+margin: 0;
+padding: 0;
 }
 
 .centrar {
   text-align: center;
   background: #e6e6e6;
   background: url('https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg');
- 
+
 }
 
 h2 {
